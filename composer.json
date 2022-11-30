@@ -1,0 +1,21 @@
+{
+    "name": "uniqueroot/tp6-cache",
+    "description": "tp6-cache",
+    "type": "1",
+    "require": {
+        "php": ">=7.1.0",
+        "topthink/framework": "^6.0.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Uniqueroot\\cache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "weijiapc",
+            "email": "weijiapc@gmail.com"
+        }
+    ]
+}
